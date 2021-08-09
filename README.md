@@ -1,15 +1,15 @@
 Merhabalar ,
 
-Basit Watermark upload sistemi. Verot net upload Classı kullanılmaktadır.
+Basit Watermark upload sistemi. Verot net upload ClassÄ± kullanÄ±lmaktadÄ±r.
 
-upload.php den gerekli ayarlamaları yapabilirsiniz.
+upload.php den gerekli ayarlamalarÄ± yapabilirsiniz.
 
-Kendi watermark kullanabilmeniz için resim/ klasöründe ki watermark.png değiştirmelisiniz.
+Kendi watermark kullanabilmeniz iÃ§in resim/ klasÃ¶rÃ¼nde ki watermark.png deÄŸiÅŸtirmelisiniz.
 
-Resimler resim/ klasörüne upload ediliyor.. upload.php den değiştirebilirsiniz.
+Resimler resim/ klasÃ¶rÃ¼ne upload ediliyor.. upload.php den deÄŸiÅŸtirebilirsiniz.
 
-Gerekli açıklamalar kod bloklarının içerisinde yer almaktadır.
+Gerekli aÃ§Ä±klamalar kod bloklarÄ±nÄ±n iÃ§erisinde yer almaktadÄ±r.
 
 
-Coder Tolga TURAN
-tolgaturants@gmail.com
+Coder Arda ISIK
+  
